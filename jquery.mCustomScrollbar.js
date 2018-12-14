@@ -1,9 +1,9 @@
 /*
-== malihu jquery custom scrollbar plugin ==
+== wekan jquery custom scrollbar plugin ==
 Version: 3.1.3
-Plugin URI: http://manos.malihu.gr/jquery-custom-content-scroller
-Author: malihu
-Author URI: http://manos.malihu.gr
+Plugin URI: https://github.com/wekan-scrollbar
+Author: wekan
+Author URI: https://github.com/wekan/wekan-scrollbar
 License: MIT License (MIT)
 */
 
